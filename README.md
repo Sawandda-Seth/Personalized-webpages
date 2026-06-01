@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project is an interactive personalized webpage built using **HTML**, **CSS**and **JavaScript**. The application allows users to enter their name and age, stores the information using the browser's **localStorage** and displays personalized content based on each user's input.
+This project is an interactive personalized webpage built using **HTML**, **CSS** and **JavaScript**. The application allows users to enter their name and age, stores the information using the browser's **localStorage** and displays personalized content based on each user's input.
 
-The project demonstrates fundamental JavaScript concepts including variables, functions, conditional statements, loops, DOM manipulation, and local storage.
+The project demonstrates fundamental JavaScript concepts including variables, functions, conditional statements, loops and local storage.
 
 ---
 
