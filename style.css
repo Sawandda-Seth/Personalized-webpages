@@ -56,3 +56,19 @@ button {
 button:hover {
     background-color: #16a34a;
 }
+
+#output {
+    margin-top: 25px;
+}
+
+#adult-content {
+    margin: 15px 0;
+    font-weight: bold;
+}
+
+.quote {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 10px;
+    margin: 8px 0;
+    border-radius: 6px;
+}
