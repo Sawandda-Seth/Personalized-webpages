@@ -26,10 +26,10 @@ function displayUserData(){
         // Adult content check using if...else
         if (storedAge >= 18) {
             adultContent.textContent =
-                "✅ You can access adult content.";
+                " You can access adult content.";
         } else {
             adultContent.textContent =
-                "❌ You are too young for adult content.";
+                " You are too young for adult content.";
         }
 
         // Display motivational quote 5 times using a loop
